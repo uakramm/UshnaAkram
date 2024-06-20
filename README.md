@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-![background.png](./images/github-banner.png) 
+![developer.gif](./images/developer.gif)
 
 <br>
 
