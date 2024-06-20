@@ -1,7 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Ushna;+DevOps+Enthusiast+👩🏻‍💻;+Python+Developer+💻;+Love+to+Automate+Everything+🤖;And+Build+Solutions+🛠;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=e4ccc0&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Ushna;+DevOps+Engineer+👩🏻‍💻;+Python+Developer+💻;+Love+to+Automate+Everything+🤖;And+Build+Solutions+🛠;">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
