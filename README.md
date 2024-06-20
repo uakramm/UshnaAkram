@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=e4ccc0&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Ushna;+DevOps+Engineer+👩🏻‍💻;+Python+Developer+💻;+Love+to+Automate+Everything+🤖;And+Build+Solutions+🛠;">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
-
-![developer.gif](./images/developer.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif" alt="Developer GIF" width="400" />
+</p>
 
 <br>
 
