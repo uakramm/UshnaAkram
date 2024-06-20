@@ -8,8 +8,6 @@
   <img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif" alt="Developer GIF" width="400" />
 </p>
 
-<br>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- ----------- HEAD SECTION END ------------ -->
