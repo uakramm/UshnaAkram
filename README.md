@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-![background.png](https://github.com/uakramm/Aryamanz29/blob/master/images/github-banner.png) 
+![background.png](./images/github-banner.png) 
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](https://github.com/uakramm/Aryamanz29/blob/master/images/connect-with-me.png)
+![connect-with-me.png](./images/connect-with-me.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ushna-akram" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ushna_linkedIn"/></a> <a href="mailto:ushna.akram1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ushna.akram1@gmail.com"/></a>
